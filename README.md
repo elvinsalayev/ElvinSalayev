@@ -17,4 +17,5 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/salayevelvin)
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=elvinsalayev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinsalayev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
