@@ -1,6 +1,6 @@
 <img src="https://github.com/elvinsalayev/ElvinSalayev//blob/main/helloworld.jpg?raw=true" data-canonical-src="https://github.com/elvinsalayev/ElvinSalayev//blob/main/helloworld.jpg?raw=true" width="100%"/>
 
-### Languages and Tools:
+### Skills:
 ![HTML5](https://img.shields.io/badge/html5-E96228?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-2F49D4?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
