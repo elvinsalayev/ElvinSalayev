@@ -3,6 +3,7 @@
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-E96228?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-2F49D4?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7210EB?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EAD41C?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/react-5BD0ED?style=for-the-badge&logo=react&logoColor=white)
