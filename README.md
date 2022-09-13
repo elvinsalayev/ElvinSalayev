@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/react-5BD0ED?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-82B155?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-370087?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/-.NET-68217A?style=for-the-badge&logo=.net&logoColor=white)
 
 
 ### Socials:
