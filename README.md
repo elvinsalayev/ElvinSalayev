@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/dLswbXN/helloworld.jpg" data-canonical-src="https://i.ibb.co/dLswbXN/helloworld.jpg" width="100%"/>
+<img src="https://github.com/elvinsalayev/ElvinSalayev//blob/main/helloworld.jpg?raw=true" data-canonical-src="https://github.com/elvinsalayev/ElvinSalayev//blob/main/helloworld.jpg?raw=true" width="100%"/>
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
